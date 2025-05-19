@@ -138,9 +138,7 @@ Testing focused on backend logic — password hashing, database setup. GUI-speci
 
 A precompiled `.exe` is available on GitHub:
 
-👉 [Download study_tracker.exe](https://github.com/your-username/study-tracker/releases/latest)
-
-Or browse [Releases](https://github.com/your-username/study-tracker/releases).
+[Download study_tracker.exe](https://github.com/AmrGomaa3/study-tracker/releases/latest)
 
 ---
 
