@@ -134,6 +134,16 @@ Testing focused on backend logic — password hashing, database setup. GUI-speci
 
 ---
 
+## Windows Executable
+
+A precompiled `.exe` is available on GitHub:
+
+👉 [Download study_tracker.exe](https://github.com/your-username/study-tracker/releases/latest)
+
+Or browse [Releases](https://github.com/your-username/study-tracker/releases).
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).  
